@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Anyeli//Calendario USC//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:avery-dennison-quality-specialist-20261022@calendario-usc-mdp
+DTSTAMP:20261020T132900Z
+DTSTART;TZID=Europe/Madrid:20261022T110000
+DTEND;TZID=Europe/Madrid:20261022T113000
+SUMMARY:Entrevista Avery Dennison - Quality Specialist
+DESCRIPTION:Entrevista por videollamada. Entrevistadora: Sola Falase (Recruiter). Hora original del correo: 10:00 GMT+1; convertida a 11:00 hora peninsular española (Europe/Madrid). Google Meet: https://meet.google.com/anf-byhw-nfw
+LOCATION:Google Meet
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Entrevista Avery Dennison en 30 minutos
+END:VALARM
+END:VEVENT
+END:VCALENDAR
